@@ -1,0 +1,5 @@
+Project name:
+SCD-Lab-Assignment
+Course : Software construction and development 
+This repository is created to demonstrate .
+git and github practical implmentation
